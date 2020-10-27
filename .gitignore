@@ -1,0 +1,14 @@
+# IDE Files
+.idea/*
+venv/*
+
+# Python Files
+**/__pycache/**
+
+# Log File
+log.txt
+
+# Miscellaneous Files
+test.py
+clear.py
+server.IP
