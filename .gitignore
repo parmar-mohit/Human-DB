@@ -3,7 +3,7 @@
 venv/*
 
 # Python Files
-**/__pycache/**
+**/__pycache__/**
 
 # Log File
 log.txt
